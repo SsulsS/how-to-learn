@@ -1,6 +1,5 @@
-.cards{
+.video__iframes{
     display: flex;
     flex-direction: row;
-    flex-wrap: wrap;
-    width: 920px;
+    margin: 50px 0 0 0;
   }

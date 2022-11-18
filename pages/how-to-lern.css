@@ -3,57 +3,80 @@
 
 /*block logo*/
 @import url(../blocks/logo/logo.css);
-@import url(../blocks/logo/_palce_header/logo_place_header.css);
+@import url(../blocks/logo/_palce/logo_place_header.css);
 
 /*block cards*/
 @import url(../blocks/cards/cards.css);
+@import url(../blocks/cards/__item/cards__item.css);
+@import url(../blocks/cards/__item/_first-of-line/cards__item_first-of-line.css);
+@import url(../blocks/cards/__image/cards__image.css);
+@import url(../blocks/cards/__title/cards__title.css);
+@import url(../blocks/cards/__description/cards__description.css);
 
 /*block two-columns*/
 @import url(../blocks/two-columns/two-columns.css);
+@import url(../blocks/two-columns/__brief/two-columns__brief.css);
+@import url(../blocks/two-columns/__main-text/two-columns__main-text.css);
+@import url(../blocks/two-columns/__paragraph/two-columns__paragraph.css);
+@import url(../blocks/two-columns/__span-accent/two-columns__span-accent.css);
 
-/*Название блока*/
+/*block table*/
 @import url(../blocks/table/table.css);
+@import url(../blocks/table/_theme/table_theme_dark.css);
+@import url(../blocks/table/__cell/table__cell.css);
+@import url(../blocks/table/__cell/_theme/table__cell_theme_dark.css);
+@import url(../blocks/table/__heading/table__heading.css);
+@import url(../blocks/table/__heading/_theme/table__heading_theme_dark.css);
+@import url(../blocks/table/__text/table__text.css);
+@import url(../blocks/table/__text/_theme/table__text_theme_dark.css);
 
-/*Название блока*/
+/*block section-title*/
 @import url(../blocks/section-title/section-title.css);
+@import url(../blocks/section-title/_theme/section-title_theme_dark.css);
 
-/*Название блока*/
+/*block section-subtitle*/
 @import url(../blocks/section-subtitle/section-subtitle.css);
+@import url(../blocks/section-subtitle/_theme/section-subtitle_theme_dark.css);
 
 /*block header*/
 @import url(../blocks/header/header.css);
+@import url(../blocks/header/__title/header__title.css);
+@import url(../blocks/header/__subtitle/header__subtitle.css);
+@import url(../blocks/header/__link/header__link.css);
+@import url(../blocks/header/__main-illustration/header__main-illustration.css);
+@import url(../blocks/header/__square-pic/header__square-pic.css);
 
-/*Название блока*/
+/*block description.*/
 @import url(../blocks/description/description.css);
 
-/*Название блока*/
+/*block techniques*/
 @import url(../blocks/techniques/techniques.css);
 
-/*Название блока*/
+/*block video*/
 @import url(../blocks/video/video.css);
+@import url(../blocks/video/__iframes/video__iframes.css);
+@import url(../blocks/video/__frames/video__frames.css);
 
-/*Название блока*/
+/*block oakley*/
 @import url(../blocks/oakley/oakley.css);
+@import url(../blocks/oakley/__two-columns/oakley__two-columns.css);
 
-/*Название блока*/
+/*block feyman*/
 @import url(../blocks/feyman/feyman.css);
 
-/*Название блока*/
+/*block digits*/
 @import url(../blocks/digits/digits.css);
 
-/*Название блока*/
+/*block khan*/
 @import url(../blocks/khan/khan.css);
 
-/*Название блока*/
+/*block kaufman*/
 @import url(../blocks/kaufman/kaufman.css);
 
-/*Название блока*/
+/*block resoueses*/
 @import url(../blocks/resourses/resourses.css);
 
-/*Название блока*/
-@import url(../blocks/footer/footer.css);
-
-/*Название блока*/
+/*block footer*/
 @import url(../blocks/footer/footer.css);
 
 .page {
