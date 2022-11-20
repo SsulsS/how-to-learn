@@ -65,7 +65,7 @@
 @import url(../blocks/feyman/feyman.css);
 @import url(../blocks/feyman/__title/feynman__title.css);
 @import url(../blocks/feyman/__subtitle/feynman__subtitle.css);
-@import url(../blocks/feyman/__link/);
+@import url(../blocks/feyman/__link//feynman__link.css);
 
 /*block digits*/
 @import url(../blocks/digits/digits.css);
