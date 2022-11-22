@@ -60,11 +60,10 @@
 /*block video*/
 @import url(../blocks/video/video.css);
 @import url(../blocks/video/__iframes/video__iframes.css);
-@import url(../blocks/video/__frames/video__frames.css);
+@import url(../blocks/video/__iframe/video__iframe.css);
 
 /*block oakley*/
 @import url(../blocks/oakley/oakley.css);
-@import url(../blocks/oakley/__two-columns/oakley__two-columns.css);
 
 /*block feyman*/
 @import url(../blocks/feyman/feyman.css);
