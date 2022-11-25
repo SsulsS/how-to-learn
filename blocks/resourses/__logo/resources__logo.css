@@ -3,4 +3,10 @@
     height: 38px;
     object-fit: contain;
     object-position: center center;
+    opacity: 100%;
+    transition: opacity 0.3s ease 0s;
   }
+
+.resources__logo:hover{
+  opacity: 70%;
+}
