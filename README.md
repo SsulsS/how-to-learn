@@ -9,3 +9,6 @@ How to lern
   
 В будущем планируется:
   Подключение шрифтов
+  
+##Ccылка:
+## https://ssulss.github.io/how-to-learn/
